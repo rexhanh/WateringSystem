@@ -2,6 +2,7 @@
 ### Code
 Clone this repo or just download the file, upload the file to your Arduino(you might want to adjust some parameters), download the iOS app, you are good to go!
 ### App
+GitHub Link: https://github.com/rexhanh/WateringSystem_iOS
 iOS Testflight Link: TBA
 
 ## Setup
