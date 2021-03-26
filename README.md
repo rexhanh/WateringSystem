@@ -2,9 +2,9 @@
 ### Code
 Clone this repo or just download the file, upload the file to your Arduino(you might want to adjust some parameters), download the iOS app, you are good to go!
 ### App
-GitHub Link: https://github.com/rexhanh/WateringSystem_iOS
+App Code Link: [Here](https://github.com/rexhanh/WateringSystem_iOS)
 
-iOS Testflight Link: TBA
+Testflight Link: [Here](https://testflight.apple.com/join/eZRCohtQ)
 
 ## Setup
 I used Arduino Uno, DSD Tech HM-10, a 12V water pump, a capacitive soil moisture, a 2 channel 5v relay and a photodiode. I did not have a 12V source, so I used two 1.5V batteries and one 9V battery to power the pump.
